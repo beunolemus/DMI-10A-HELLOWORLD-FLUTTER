@@ -20,6 +20,7 @@ PRIMERA APLICACION REALIZADA EN FLUTTER PARA DISPOSIDTIVOS MOVILES, PARTE DE LA 
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white)
-![FLUTTER](https://img.shields.io/badge/)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ### AUTOR
 ELABORADO POR BRUNO LEMUS GONZALEZ [@brunolemus](https://github.com/beunolemus)
