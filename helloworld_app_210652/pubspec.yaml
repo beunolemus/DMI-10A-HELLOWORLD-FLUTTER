@@ -88,3 +88,12 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: PTMono
+      fonts:
+        - asset: assets/fonts/PTMono-Regular.ttf
+          weight: 700

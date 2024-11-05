@@ -16,7 +16,7 @@ const MyApp({super.key});
       theme: ThemeData(
         colorSchemeSeed: Colors.yellow
         ),
-      home:const CounterScreen()
+      home:const CounterFunctionsScreen()
     );
   }
 
